@@ -139,6 +139,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="벌집.cpp" />
+    <ClCompile Include="분해합.cpp" />
     <ClCompile Include="블랙잭.cpp" />
     <ClCompile Include="설탕배달.cpp" />
     <ClCompile Include="손익분기점.cpp">
